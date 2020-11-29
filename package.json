@@ -1,0 +1,29 @@
+{
+  "name": "@3beeepb/react-native-keyboard-dismiss",
+  "version": "1.0.0",
+  "description": "A simple way to dismiss the keyboard programmatically in a react native application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3beeepb/react-native-keyboard-dismiss.git"
+  },
+  "keywords": [
+    "react-component",
+    "react",
+    "react-native",
+    "ios",
+    "android",
+    "keyboard",
+    "dismiss",
+    "react-native-keyboard-dismiss"
+  ],
+  "author": "Pavel Vladimiroff <pavel.vladimiroff@gmail.com> (https://github.com/3beeepb)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3beeepb/react-native-keyboard-dismiss/issues"
+  },
+  "homepage": "https://github.com/3beeepb/react-native-keyboard-dismiss#readme"
+}
