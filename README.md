@@ -6,7 +6,7 @@ This library simple allows iOS and Android apps to dismiss keyboard when touchin
 
 1. Run `npm install @3beeepb/react-native-keyboard-dismiss --save`
 
-2. To import the library choose one of these options
+2. Import the library
 
     ```js
     import KeyboardDismiss from '@3beeepb/react-native-keyboard-dismiss';
